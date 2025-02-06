@@ -6,6 +6,8 @@ using UnityEngine.Events;
 using UnityEngine.UIElements;
 using UnityEngine.UIElements.Experimental;
 
+
+// for all (enemy + player)
 public class Combat : MonoBehaviour
 {
     public static Combat Instance;

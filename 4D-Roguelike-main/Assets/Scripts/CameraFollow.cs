@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Scripting.APIUpdating;
 
+// only look at the player
 public class CameraFollow : MonoBehaviour
 {
     public Camera cam;

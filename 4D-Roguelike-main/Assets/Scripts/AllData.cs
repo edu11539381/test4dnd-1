@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+// for only player only
 public class AllData : MonoBehaviour
 {
     public static AllData Instance;

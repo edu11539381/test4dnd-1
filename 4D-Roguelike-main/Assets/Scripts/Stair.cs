@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
+// prefabs' all stair
 public class Stair : MonoBehaviour
 {
     public Vector4 position;

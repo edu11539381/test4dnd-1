@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// only use at enemy
 public class Enemy : MonoBehaviour
 {
     public Vector4 position;

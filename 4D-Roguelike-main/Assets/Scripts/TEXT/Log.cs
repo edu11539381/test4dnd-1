@@ -4,6 +4,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 
+
+// use only at log
 public class Log : MonoBehaviour
 {
     public static Log Instance;

@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// enemy have used this code
 public class EnemySpawner : MonoBehaviour
 {   public static EnemySpawner Instance;
 

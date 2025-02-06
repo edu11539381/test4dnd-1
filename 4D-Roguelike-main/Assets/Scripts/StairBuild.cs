@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
+// use in stair
 public class StairBuild : MonoBehaviour
 {   public static StairBuild Instance;
 

@@ -7,6 +7,8 @@ using UnityEngine.Tilemaps;
 //using static UnityEditor.Progress;
 using Random = UnityEngine.Random;
 
+// big fuckinng shit
+
 public class hCube // hypercube (ground)
 {
     public Vector4 start;

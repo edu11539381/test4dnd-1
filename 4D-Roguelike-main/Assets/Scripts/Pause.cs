@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+
+// use in EventSystem in Hierarchy
+
 public class Pause : MonoBehaviour {
     public void Load(int index) { SceneManager.LoadScene(index); } //menu button use it
 

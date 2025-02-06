@@ -8,6 +8,9 @@ using System.Drawing;
 using NUnit.Framework;
 using System.Linq;
 
+// only for player
+
+
 [System.Serializable]
 public class KeyAxis{public KeyCode n, p;}
 
